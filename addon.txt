@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"			"Votemap" 
+	"version"		"1"
+	"author_name"	"Clark(Aide)"
+	"author_email"	""
+	"author_url"	"www.HavocGamers.net"
+	"info"			"Super simple votemap with pre selected maps."
+	"override"		"1"
+}
+
+
